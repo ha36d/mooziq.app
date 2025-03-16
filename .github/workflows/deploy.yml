@@ -42,7 +42,7 @@ jobs:
         key: ${{ secrets.DIGITALOCEAN_SSH_KEY }}
         port: 22
         source: "./public/*"
-        target: "/var/www/html/public"
+        target: "/var/www/html"
         tar_tmp_path: "/tmp/"
         rm: true
         overwrite: true
