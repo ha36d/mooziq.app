@@ -3,10 +3,10 @@ name: Deploy Hugo site to DigitalOcean
 on:
   push:
     branches:
-      - main  # Trigger deployment when pushing to the main branch
+      - master  # Trigger deployment when pushing to the master branch
   pull_request:
     branches:
-      - main  # Trigger deployment on pull requests to main
+      - master  # Trigger deployment on pull requests to master
 
 jobs:
   build:
