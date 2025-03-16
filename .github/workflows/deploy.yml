@@ -1,0 +1,46 @@
+name: Deploy Hugo site to DigitalOcean
+
+on:
+  push:
+    branches:
+      - main  # Trigger deployment when pushing to the main branch
+  pull_request:
+    branches:
+      - main  # Trigger deployment on pull requests to main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Checkout code
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    # Set up Hugo
+    - name: Set up Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: '0.111.3'  # Specify your desired Hugo version
+
+    # Install dependencies
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y rsync
+
+    # Build the site
+    - name: Build Hugo site
+      run: hugo --minify
+
+    # Deploy to DigitalOcean using rsync (via SSH)
+    - name: Deploy to DigitalOcean
+      uses: appleboy/scp-action@v0.1.7
+      with:
+        host: ${{ secrets.DIGITALOCEAN_IP }}
+        username: ${{ secrets.DIGITALOCEAN_USER }}
+        key: ${{ secrets.DIGITALOCEAN_SSH_KEY }}
+        port: 22
+        source: "./public/"
+        target: "/public/"
+

@@ -1,0 +1,29 @@
+# Hugo directories
+/public/
+# Hugo build output directory
+/resources/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE or editor files
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Backup files
+*.bak
+
+# Local configuration files
+config.toml
+config.yaml
+
+# Sensitive data files (for example)
+*.env

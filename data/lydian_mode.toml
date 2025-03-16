@@ -1,0 +1,34 @@
+[[chords]]
+degree = "I"
+chord_type = "Maj7"
+example = "Cmaj7 (C - E - G - B)"
+
+[[chords]]
+degree = "II"
+chord_type = "Maj7"
+example = "Dmaj7 (D - F# - A - C)"
+
+[[chords]]
+degree = "III"
+chord_type = "7"
+example = "E7 (E - G# - B - D)"
+
+[[chords]]
+degree = "IV"
+chord_type = "m7"
+example = "F#m7 (F# - A - C# - E)"
+
+[[chords]]
+degree = "V"
+chord_type = "m7"
+example = "Gm7 (G - Bb - D - F)"
+
+[[chords]]
+degree = "VI"
+chord_type = "m7♭5"
+example = "Aø (A - C - E♭ - G)"
+
+[[chords]]
+degree = "VII"
+chord_type = "Maj7"
+example = "Bmaj7 (B - D# - F# - A)"
