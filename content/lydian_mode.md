@@ -2,8 +2,6 @@
 title: "Lydian Mode"
 date: 2025-03-16
 ---
-# Lydian Mode
-
 ## Introduction
 
 Lydian mode is a mode which is derived from the major scale with a raised fourth scale degree, which gives it a distinct sound. The formula for the Lydian mode is:
