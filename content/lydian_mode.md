@@ -6,7 +6,7 @@ date: 2025-03-16
 
 Lydian mode is a mode which is derived from the major scale with a raised fourth scale degree, which gives it a distinct sound. The formula for the Lydian mode is:
 
-`1, 2, 3, #4, 5, 6, 7`
+**1, 2, 3, #4, 5, 6, 7**
 
 Each mode has its own unique formula of intervals (whole and half steps). For any given root note, we can apply the formula to create each of the seven modes for that root. The Lydian mode has the following interval formula:
 
@@ -18,11 +18,24 @@ Each mode has its own unique formula of intervals (whole and half steps). For an
 * Major sixth
 * Major seventhd
 
-In other words, the interval formula is `WWWHWWH`.
+In other words, the interval formula is **W-W-W-H-W-W-H**.
+
+## Important Songs Featuring the Lydian Mode
+
+The Lydian mode has been utilized in many popular songs across different genres. Here are some notable examples:
+
+1. **"Flying in a Blue Dream" by Joe Satriani**
+   * This instrumental track is often cited as a classic example of the Lydian mode in rock music, showcasing its bright and expansive sound.
+2. **"Dreams" by Fleetwood Mac**
+   * From their iconic album "Rumours," this song subtly incorporates the Lydian mode to create an ethereal atmosphere, enhancing its emotional depth.
+3. **"Freewill" by Rush**
+   * This progressive rock song features sections that utilize the Lydian mode, contributing to its complex and dynamic structure.
 
 ## Constructing Lydian Mode
 
 The fourth note of the major scale as root note is Lydian.
+
+![Lydian](/images/lydian.png)
 
 ## Chord Quality
 
