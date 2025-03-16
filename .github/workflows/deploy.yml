@@ -41,9 +41,8 @@ jobs:
         username: ${{ secrets.DIGITALOCEAN_USER }}
         key: ${{ secrets.DIGITALOCEAN_SSH_KEY }}
         port: 22
-        source: "./public/*"
-        target: "/var/www/html"
+        source: "public/*"
+        target: "/var/www/html/"
         tar_tmp_path: "/tmp/"
-        rm: true
         overwrite: true
 
