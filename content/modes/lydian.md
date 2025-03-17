@@ -1,28 +1,39 @@
 ---
-title: "Lydian Mode"
+title: "Lydian"
 date: 2025-03-16
 ---
 ## Introduction
 
-Lydian mode is a mode which is derived from the major scale with a raised fourth scale degree, which gives it a distinct sound. The formula for the Lydian mode is:
+The **Lydian mode** is a mode which is derived from the major scale with a **raised fourth (4#)** scale degree, which gives it a distinct sound.
+
+## Structure of the Mixolydian Mode
+
+The Lydian mode is the **fourth mode** of the major scale. Its formula is:
 
 **1, 2, 3, #4, 5, 6, 7**
 
 Each mode has its own unique formula of intervals (whole and half steps). For any given root note, we can apply the formula to create each of the seven modes for that root. The Lydian mode has the following interval formula:
 
+- **Intervals**:
+
 * Root
-* Major second
-* Major third
-* Augmented fourth
-* Perfect fifth
-* Major sixth
-* Major seventhd
+* Major 2nd
+* Major 3rd
+* Augmented 4th (#4)
+* Perfect 5th
+* Major 6th
+* Major 7th
 
-In other words, the interval formula is **W-W-W-H-W-W-H**.
+In other words, the interval formula is **W – W - W - H - W - W - H** (Whole and half steps).
 
-## Important Songs Featuring the Lydian Mode
+#### Example:
 
-The Lydian mode has been utilized in many popular songs across different genres. Here are some notable examples:
+Notes of the C Lydian Scale: C – D – E – F# – G – A – B – C
+
+
+## Lydian in Action
+
+#### Iconic Examples:
 
 1. **"Flying in a Blue Dream" by Joe Satriani**
    * This instrumental track is often cited as a classic example of the Lydian mode in rock music, showcasing its bright and expansive sound.
@@ -39,7 +50,7 @@ The fourth note of the major scale as root note is Lydian.
 
 ## Chord Quality
 
-### **Diatonic Triads in Lydian Mode**
+#### Diatonic Triads in Lydian Mode
 
 | Degree | Chord Type | Example C Lydian (C - D - E - F# - G - A - B) | Notes in the Example C Lydian |
 | ------ | ---------- | --------------------------------------------- | ----------------------------- |
@@ -51,7 +62,7 @@ The fourth note of the major scale as root note is Lydian.
 | VI     | Minor      | Am                                            | A - C - E                     |
 | VII    | Minor      | Bm                                            | B - D - F#                    |
 
-### **Diatonic 7th Chords in Lydian Mode**
+#### Diatonic 7th Chords in Lydian Mode
 
 | Degree | Chord Type                   | Example (C Lydian) | Notes          |
 | ------ | ---------------------------- | ------------------ | -------------- |
@@ -63,7 +74,7 @@ The fourth note of the major scale as root note is Lydian.
 | VI     | Minor 7                      | Am7                | A - C - E - G  |
 | VII    | Minor 7                      | Bm7                | B - D - F# - A |
 
-## **Common Lydian Chord Progressions**
+## Common Lydian Chord Progressions
 
 * **I-II Progression**:
 
