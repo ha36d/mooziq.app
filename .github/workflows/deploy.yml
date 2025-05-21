@@ -57,6 +57,8 @@ jobs:
             hugo-
       - name: Configure Git
         run: git config core.quotepath false
+      - name: List files
+        run: ls -la themes/relearn
       - name: Build with Hugo
         run: |
           hugo \
