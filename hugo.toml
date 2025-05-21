@@ -1,4 +1,4 @@
 baseURL = 'https://mooziq.app/'
 languageCode = 'en-us'
 title = 'MooziQ'
-theme = 'relearn'
+theme = 'hugo-theme-relearn'
