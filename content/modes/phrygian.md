@@ -1,6 +1,6 @@
 ---
 title: "Phrygian"
-date: 2025-06-16
+date: 2025-06-15
 ---
 
 ## Introduction
