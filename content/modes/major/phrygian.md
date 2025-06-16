@@ -1,6 +1,6 @@
 ---
 title: "Phrygian"
-date: 2025-06-15
+date: 2025-06-16
 ---
 
 ## Introduction
@@ -11,16 +11,16 @@ The **Phrygian mode** is the darkest and most exotic-sounding minor mode in the 
 
 The Phrygian mode is the **third mode** of the major scale.
 
-**Formula**: **1, ♭2, ♭3, 4, 5, ♭6, ♭7**
+**Formula**: **1, ♭2, ♭3, 4, 5, ♭6, ♭7**  
+**Intervals**:
 
-- **Intervals**:
-  * Root
-  * Minor 2nd
-  * Minor 3rd
-  * Perfect 4th
-  * Perfect 5th
-  * Minor 6th
-  * Minor 7th
+- Root  
+- Minor 2nd  
+- Minor 3rd  
+- Perfect 4th  
+- Perfect 5th  
+- Minor 6th  
+- Minor 7th
 
 **Interval formula**: **H – W – W – W – H – W – W**
 
@@ -32,8 +32,8 @@ E Phrygian Scale: E – F – G – A – B – C – D – E
 
 #### Iconic Examples:
 
-1. **"Wherever I May Roam" by Metallica** – Embraces the exotic feel of Phrygian.
-2. **"Misirlou" by Dick Dale** – Surf rock with Phrygian flair.
+1. **"Wherever I May Roam" by Metallica** – Embraces the exotic feel of Phrygian.  
+2. **"Misirlou" by Dick Dale** – Surf rock with Phrygian flair.  
 3. **"White Rabbit" by Jefferson Airplane** – Dark, modal tension from Phrygian.
 
 ## Chord Quality
@@ -64,8 +64,8 @@ E Phrygian Scale: E – F – G – A – B – C – D – E
 
 ## Common Progressions
 
-* **i-II**: Em - F
-* **i-bVII-bVI**: Em - D - C
+* **i-II**: Em - F  
+* **i-♭VII-♭VI**: Em - D - C  
 * **i-iv-V**: Em - Am - Bdim
 
 ![Phrygian](/images/phrygian.png)

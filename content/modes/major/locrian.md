@@ -1,6 +1,6 @@
 ---
 title: "Locrian"
-date: 2025-06-15
+date: 2025-06-16
 ---
 
 ## Introduction
@@ -11,16 +11,16 @@ The **Locrian mode** is the most dissonant and least used of all modes. It conta
 
 The Locrian mode is the **seventh mode** of the major scale.
 
-**Formula**: **1, ♭2, ♭3, 4, ♭5, ♭6, ♭7**
+**Formula**: **1, ♭2, ♭3, 4, ♭5, ♭6, ♭7**  
+**Intervals**:
 
-- **Intervals**:
-  * Root
-  * Minor 2nd
-  * Minor 3rd
-  * Perfect 4th
-  * Diminished 5th
-  * Minor 6th
-  * Minor 7th
+- Root  
+- Minor 2nd  
+- Minor 3rd  
+- Perfect 4th  
+- Diminished 5th  
+- Minor 6th  
+- Minor 7th
 
 **Interval formula**: **H – W – W – H – W – W – W**
 
@@ -32,8 +32,8 @@ B Locrian Scale: B – C – D – E – F – G – A – B
 
 #### Iconic Examples:
 
-1. **"Army of Me" by Björk** – Subtle use of Locrian harmony.
-2. **"Heretic" by Soundgarden** – Unconventional tonality via Locrian.
+1. **"Army of Me" by Björk** – Subtle use of Locrian harmony.  
+2. **"Heretic" by Soundgarden** – Unconventional tonality via Locrian.  
 3. **"YYZ" by Rush** – Has Locrian-inflected passages.
 
 ## Chord Quality
@@ -64,8 +64,8 @@ B Locrian Scale: B – C – D – E – F – G – A – B
 
 ## Common Progressions
 
-* **i-ii**: Bdim - C
-* **i-♭VII-♭VI**: Bdim - A - G
+* **i-ii**: Bdim - C  
+* **i-♭VII-♭VI**: Bdim - A - G  
 * **i-iv**: Bdim - Em
 
 ![Locrian](/images/locrian.png)

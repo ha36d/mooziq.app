@@ -1,6 +1,6 @@
 ---
 title: "Dorian"
-date: 2025-06-15
+date: 2025-06-16
 ---
 
 ## Introduction
@@ -11,16 +11,16 @@ The **Dorian mode** is a minor mode with a twist: it has a **natural 6th** inste
 
 The Dorian mode is the **second mode** of the major scale.
 
-**Formula**: **1, 2, ♭3, 4, 5, 6, ♭7**
+**Formula**: **1, 2, ♭3, 4, 5, 6, ♭7**  
+**Intervals**:
 
-- **Intervals**:
-  * Root
-  * Major 2nd
-  * Minor 3rd
-  * Perfect 4th
-  * Perfect 5th
-  * Major 6th
-  * Minor 7th
+- Root  
+- Major 2nd  
+- Minor 3rd  
+- Perfect 4th  
+- Perfect 5th  
+- Major 6th  
+- Minor 7th
 
 **Interval formula**: **W – H – W – W – W – H – W**
 
@@ -32,23 +32,23 @@ D Dorian Scale: D – E – F – G – A – B – C – D
 
 #### Iconic Examples:
 
-1. **"So What" by Miles Davis** – The quintessential Dorian jazz piece.
-2. **"Mad World" by Tears for Fears** – Emotional Dorian harmonies.
+1. **"So What" by Miles Davis** – The quintessential Dorian jazz piece.  
+2. **"Mad World" by Tears for Fears** – Emotional Dorian harmonies.  
 3. **"Get Lucky" by Daft Punk** – Dorian’s major 6th in action.
 
 ## Chord Quality
 
 ### Diatonic Triads in Dorian Mode
 
-| Degree | Chord Type | Example (D Dorian) | Notes         |
-|--------|------------|--------------------|---------------|
-| I      | Minor      | Dm                 | D - F - A     |
-| II     | Minor      | Em                 | E - G - B     |
-| III    | Major      | F                  | F - A - C     |
-| IV     | Major      | G                  | G - B - D     |
-| V      | Minor      | Am                 | A - C - E     |
-| VI     | Diminished | Bdim               | B - D - F     |
-| VII    | Major      | C                  | C - E - G     |
+| Degree | Chord Type | Example (D Dorian) | Notes       |
+|--------|------------|--------------------|-------------|
+| I      | Minor      | Dm                 | D - F - A   |
+| II     | Minor      | Em                 | E - G - B   |
+| III    | Major      | F                  | F - A - C   |
+| IV     | Major      | G                  | G - B - D   |
+| V      | Minor      | Am                 | A - C - E   |
+| VI     | Diminished | Bdim               | B - D - F   |
+| VII    | Major      | C                  | C - E - G   |
 
 ### Diatonic 7th Chords in Dorian Mode
 
@@ -64,8 +64,8 @@ D Dorian Scale: D – E – F – G – A – B – C – D
 
 ## Common Progressions
 
-* **i-IV**: Dm - G
-* **i-ii-IV**: Dm - Em - G
+* **i-IV**: Dm - G  
+* **i-ii-IV**: Dm - Em - G  
 * **i-v7-i**: Dm - Am7 - Dm
 
 ![Dorian](/images/dorian.png)

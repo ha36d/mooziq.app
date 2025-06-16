@@ -11,16 +11,16 @@ The **Aeolian mode** is also known as the **natural minor scale**. It is a widel
 
 The Aeolian mode is the **sixth mode** of the major scale.
 
-**Formula**: **1, 2, ♭3, 4, 5, ♭6, ♭7**
+**Formula**: **1, 2, ♭3, 4, 5, ♭6, ♭7**  
+**Intervals**:
 
-- **Intervals**:
-  * Root
-  * Major 2nd
-  * Minor 3rd
-  * Perfect 4th
-  * Perfect 5th
-  * Minor 6th
-  * Minor 7th
+- Root  
+- Major 2nd  
+- Minor 3rd  
+- Perfect 4th  
+- Perfect 5th  
+- Minor 6th  
+- Minor 7th
 
 **Interval formula**: **W – H – W – W – H – W – W**
 
@@ -32,8 +32,8 @@ A Aeolian Scale: A – B – C – D – E – F – G – A
 
 #### Iconic Examples:
 
-1. **"Losing My Religion" by R.E.M.** – A minor melancholic Aeolian vibe.
-2. **"Stairway to Heaven" by Led Zeppelin** – Minor sections draw from Aeolian.
+1. **"Losing My Religion" by R.E.M.** – A minor melancholic Aeolian vibe.  
+2. **"Stairway to Heaven" by Led Zeppelin** – Minor sections draw from Aeolian.  
 3. **"Smells Like Teen Spirit" by Nirvana** – Strong Aeolian undercurrent.
 
 ## Chord Quality
@@ -64,8 +64,8 @@ A Aeolian Scale: A – B – C – D – E – F – G – A
 
 ## Common Progressions
 
-* **i-♭VI-♭VII-i**: Am - F - G - Am
-* **i-iv-VII**: Am - Dm - G
+* **i-♭VI-♭VII-i**: Am - F - G - Am  
+* **i-iv-VII**: Am - Dm - G  
 * **i-iv-v**: Am - Dm - Em
 
 ![Aeolian](/images/aeolian.png)
